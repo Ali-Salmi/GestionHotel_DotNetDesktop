@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "548f2yG97usSCCMOvFD4Kf20FO/KvvXaWtIw8xVhPfUOwmPqiRGMAjLsy3SyiywR3Ch2MJRmiX3BccOQ2AQcEA==",
+  "success": true,
+  "projectFilePath": "D:\\Imane\\GestionHotel\\GestionHotel\\GestionHotel\\GestionHotel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAAD\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\SAAD\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\SAAD\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\SAAD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
